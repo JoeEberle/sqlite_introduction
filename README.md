@@ -4,7 +4,7 @@
 
 ## Description
 
-Web Automation - Automate Browsing, Web Scraping, Testing and using the Web  
+A breif introduction to SQL Lite 
 
 ![Developer Logo](developer.png)
 
