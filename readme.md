@@ -1,6 +1,6 @@
 
-# Sqlite Introduction - sqlite_introduction provides an introduction to SQL lite
-sqlite_introduction provides an introduction to SQL lite
+# Sqlite Introduction - SQLite introduction provides an introduction to SQL lite
+SQLite introduction provides an introduction to SQL lite
 
 ![Image image_filename](code.png)
 
@@ -35,4 +35,4 @@ To get started with the **Sqlite Introduction** solution repository, follow thes
 ![Developer](developer.png)
 
 ![Brand](brand.png)
-    ## Deliverables or Figures![additional_image](SQLite_introduction.png)  <br>
+    ## Deliverables or Figures![additional_image](solution_sign.png)  <br>![additional_image](solution_stacked_sign.png)  <br>![additional_image](SQLite_introduction.png)  <br>
