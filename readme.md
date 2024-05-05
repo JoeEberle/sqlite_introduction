@@ -45,5 +45,5 @@ To get started with the **Sqlite Introduction** solution repository, follow thes
 ![Brand](brand.png)
     
 ## Deliverables or Figures
- ![additional_image](solution_stacked_sign.png)  <br>![additional_image](SQLite_introduction.png)  <br>
+ ![additional_image](SQLite_introduction.png)  <br>
     
