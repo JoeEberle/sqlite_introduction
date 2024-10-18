@@ -1,11 +1,4 @@
-
-![Image image_filename](solution_sign.png)
-
-# Sqlite Introduction - SQLite introduction provides an introduction to SQL lite
-SQLite introduction provides an introduction to SQL lite
-
-![Image image_filename](code.png)
-
+![Image image_filename](solution_sign.png)# Sqlite Introduction - SQLite introduction provides an introduction to SQL lite![Image image_filename](code.png)
 ##  SQLite Introduction Solution Overview
 
 
@@ -103,6 +96,9 @@ To get started with the **Sqlite Introduction** solution repository, follow thes
 - Its Fast and Automated
 
 ## Notebook Features
+
+The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
+
 - **Self Documenting** - Automatically identifes major steps in notebook 
 - **Self Testing** - Unit Testing for each function
 - **Easily Configurable** - Easily modify with **config.INI** - keyname value pairs
@@ -112,13 +108,11 @@ To get started with the **Sqlite Introduction** solution repository, follow thes
 - **Low Code** - or - No Code  - Most solutions are under 50 lines of code
 - **Educational** - Includes educational dialogue and background material
     
-## Deliverables or Figures
+## List of Figures
  ![additional_image](SQLite_introduction.png)  <br>
     
 
-## Github    https://github.com/JoeEberle/ 
-## Email  josepheberle@outlook.com 
-
+## Github https://github.com/JoeEberle/ - Email  josepheberle@outlook.com 
     
 ![Developer](developer.png)
 
