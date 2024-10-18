@@ -81,7 +81,7 @@ conn = sqlite3.connect('my_database.db')
 cur = conn.cursor()
 
 # Create a table
-
+![Image image_filename](code.png)
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
