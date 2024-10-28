@@ -1,0 +1,144 @@
+
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>SQLite Introduction.html</title>
+        <style>
+            body { font-family: Arial, sans-serif; line-height: 1.6; margin: 20px; }
+            h1, h2, h3, h4, h5, h6 { color: #333; }
+            img { max-width: 100%; height: auto; }
+            pre, code { background: #f4f4f4; padding: 5px; border-radius: 5px; }
+            table { border-collapse: collapse; width: 100%; }
+            table, th, td { border: 1px solid #ddd; padding: 8px; }
+            th { background-color: #f2f2f2; }
+        </style>
+    </head>
+    <body>
+        <p><img alt="Image image_filename" src="solution_sign.png" /></p>
+<h1 id="sqlite-introduction">Sqlite Introduction</h1>
+<h2 id="sqlite-introduction-provides-an-introduction-to-sql-lite">SQLite introduction provides an introduction to SQL lite</h2>
+<p><img alt="Solution" src="code.png" /></p>
+<h2 id="table-of-contents">Table of Contents</h2>
+<ul>
+<li><a href="#solution-overview">Solution Overview</a></li>
+<li><a href="#who-can-use">Who will use this ?</a></li>
+<li><a href="#advantages-of-using">Advantages of Using</a></li>
+<li><a href="#return-on-investment-roi">Return on Investment (ROI)</a></li>
+<li><a href="#how-it-works">How it Works</a></li>
+<li><a href="#conclusion">Conclusion</a></li>
+<li><a href="#getting-started">Getting Started</a></li>
+<li><a href="#solution-features">Solution Features</a></li>
+<li><a href="#code-features">Code Features</a></li>
+<li><a href="#deliverables-or-figures">Deliverables or Figures</a></li>
+<li><a href="#contact-information">Contact Information</a></li>
+</ul>
+<h2 id="sqlite-introduction-solution-overview">SQLite Introduction Solution Overview</h2>
+<p>Here’s a <strong>README.md</strong> for the <strong>SQLite_introduction.ipynb</strong> that introduces how to install, configure, and use SQLite:</p>
+<hr />
+<h1 id="introduction-to-sqlite">Introduction to SQLite</h1>
+<p>This project demonstrates the basics of <strong>SQLite</strong> through the Jupyter Notebook <code>SQLite_introduction.ipynb</code>. <strong>SQLite</strong> is a lightweight, embedded <strong>relational database management system (RDBMS)</strong> that is widely used for smaller-scale applications, mobile apps, and embedded systems. This notebook will walk you through installing, configuring, and working with SQLite, along with example code in <strong>Python</strong>.</p>
+<h2 id="table-of-contents_1">Table of Contents</h2>
+<ul>
+<li><a href="#introduction">Introduction</a></li>
+<li><a href="#features-of-sqlite">Features of SQLite</a></li>
+<li><a href="#installation">Installation</a></li>
+<li><a href="#usage">Usage</a></li>
+<li><a href="#python-and-sqlite">Python and SQLite</a></li>
+<li><a href="#conclusion">Conclusion</a></li>
+</ul>
+<h2 id="introduction">Introduction</h2>
+<p>SQLite is a powerful yet <strong>lightweight</strong> database engine that doesn't require a server to operate. It stores all data in a <strong>single disk file</strong> and is designed to be <strong>self-contained</strong> and <strong>efficient</strong> with minimal configuration. SQLite is widely used in <strong>mobile applications</strong>, <strong>embedded systems</strong>, and <strong>small-scale projects</strong> due to its simplicity and reliability. In this notebook, you will learn how to use SQLite, particularly in Python, where the <code>sqlite3</code> module comes <strong>built-in</strong>.</p>
+<h2 id="features-of-sqlite">Features of SQLite</h2>
+<ul>
+<li><strong>Lightweight and Embedded</strong>: SQLite is small and operates without requiring a separate database server. All data is stored in a single file on disk.</li>
+<li><strong>Minimal Configuration</strong>: Since SQLite is embedded, it requires almost no configuration to get started.</li>
+<li><strong>Widely Used</strong>: It is popular in mobile apps, embedded systems, and small-scale projects where efficiency and simplicity are required.</li>
+<li><strong>Free and Open-Source</strong>: SQLite is freely available under a permissive license, making it a popular choice for many software applications.</li>
+<li><strong>Self-contained and Serverless</strong>: Unlike other RDBMS, SQLite is serverless, which simplifies its setup and use.</li>
+<li><strong>SQL Support</strong>: Despite being lightweight, SQLite fully supports <strong>standard SQL</strong> for managing relational databases.</li>
+</ul>
+<h2 id="installation">Installation</h2>
+<p>To begin using SQLite, no installation is necessary if you're working in Python, as the <strong>sqlite3</strong> module is included in Python's standard library. However, if you'd like to install SQLite on your system for direct interaction, follow these steps:</p>
+<ol>
+<li><strong>For Windows</strong>:</li>
+<li>Download the SQLite tools from the <a href="https://www.sqlite.org/download.html">SQLite Downloads page</a>.</li>
+<li>
+<p>Unzip the files and add the path to your system environment variables.</p>
+</li>
+<li>
+<p><strong>For Mac/Linux</strong>:</p>
+</li>
+<li>SQLite is often pre-installed on macOS and Linux systems. To check:
+     <code>bash
+     sqlite3 --version</code></li>
+<li>If it's not installed, you can install it via Homebrew (for macOS) or APT (for Linux):
+     <code>bash
+     brew install sqlite3   # macOS
+     sudo apt-get install sqlite3   # Linux</code></li>
+</ol>
+<h2 id="usage">Usage</h2>
+<p>Once SQLite is installed or accessed via Python, you can use it by following these basic steps:</p>
+<ol>
+<li><strong>Creating a Database</strong>:</li>
+<li>
+<p>SQLite operates on a single file that stores your entire database. Create a new database by connecting to a new or existing file:</p>
+</li>
+<li>
+<p><strong>Basic SQL Commands</strong>:</p>
+</li>
+<li>
+<p>You can create tables, insert data, and run queries using standard SQL commands:</p>
+</li>
+<li>
+<p><strong>Closing the Database</strong>:</p>
+</li>
+<li>To exit the SQLite environment:</li>
+</ol>
+<h2 id="python-and-sqlite">Python and SQLite</h2>
+<p>Python provides built-in support for SQLite using the <code>sqlite3</code> module, allowing you to easily work with SQLite databases within Python scripts or Jupyter notebooks. Here's an example:</p>
+<h3 id="example-in-python">Example in Python:</h3>
+<p>```python
+import sqlite3</p>
+<h1 id="connect-to-sqlite-database-or-create-it-if-it-doesnt-exist">Connect to SQLite database (or create it if it doesn't exist)</h1>
+<p>conn = sqlite3.connect('my_database.db')</p>
+<h1 id="create-a-cursor-object">Create a cursor object</h1>
+<p>cur = conn.cursor()</p>
+<h1 id="create-a-table">Create a table</h1>
+<p><img alt="Solution" src="code.png" /></p>
+<h2 id="getting-started">Getting Started</h2>
+<p>The goal of this solution is to <strong>Jump Start</strong> your development and have you up and running in 30 minutes. </p>
+<p>To get started with the <strong>Sqlite Introduction</strong> solution repository, follow these steps:
+1. Clone the repository to your local machine.
+2. Install the required dependencies listed at the top of the notebook.
+3. Explore the example code provided in the repository and experiment.
+4. Run the notebook and make it your own - <strong>EASY !</strong></p>
+<h2 id="solution-features">Solution Features</h2>
+<ul>
+<li>Easy to understand and use  </li>
+<li>Easily Configurable </li>
+<li>Quickly start your project with pre-built templates</li>
+<li>Its Fast and Automated</li>
+<li>Saves You Time </li>
+</ul>
+<h2 id="code-features">Code Features</h2>
+<p>These features are designed to provide everything you need for <strong>Sqlite Introduction</strong> </p>
+<ul>
+<li><strong>Self Documenting</strong> - Automatically identifes major steps in notebook </li>
+<li><strong>Self Testing</strong> - Unit Testing for each function</li>
+<li><strong>Easily Configurable</strong> - Easily modify with <strong>config.INI</strong> - keyname value pairs</li>
+<li><strong>Includes Talking Code</strong> - The code explains itself </li>
+<li><strong>Self Logging</strong> - Enhanced python standard logging   </li>
+<li><strong>Self Debugging</strong> - Enhanced python standard debugging</li>
+<li><strong>Low Code</strong> - or - No Code  - Most solutions are under 50 lines of code</li>
+<li><strong>Educational</strong> - Includes educational dialogue and background material</li>
+</ul>
+<h2 id="list-of-figures">List of Figures</h2>
+<p><img alt="additional_image" src="SQLite_introduction.png" />  <br></p>
+<h2 id="github-httpsgithubcomjoeeberle-email-josepheberleoutlookcom">Github https://github.com/JoeEberle/ - Email  josepheberle@outlook.com</h2>
+<p><img alt="Developer" src="developer.png" /></p>
+<p><img alt="Brand" src="brand.png" /></p>
+    </body>
+    </html>
+    

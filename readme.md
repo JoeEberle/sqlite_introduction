@@ -26,7 +26,7 @@
 ##  SQLite Introduction Solution Overview
 
 
-Here’s a **README.md** for the **SQLite_introduction.ipynb** that introduces how to install, configure, and use SQLite:
+Hereâ€™s a **README.md** for the **SQLite_introduction.ipynb** that introduces how to install, configure, and use SQLite:
 
 ---
 
