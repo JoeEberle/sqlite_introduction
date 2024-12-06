@@ -1,0 +1,75 @@
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-12-05 19:43:00,870 - INFO - START SQLite_Introduction =============================================
+2024-12-05 19:43:00,870 - INFO - START SQLite_Introduction Start Time = 2024-12-05 19:43:00
+2024-12-05 19:43:00,870 - INFO - SQLite_Introduction Step 0 - Initialize the configuration file parser
+2024-12-05 19:43:00,997 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\josep\\anaconda3\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-12-05 19:43:00,997 - INFO - Using writeable comtypes cache directory: 'C:\Users\josep\anaconda3\lib\site-packages\comtypes\gen'
+2024-12-05 19:45:01,182 - INFO - PERFORMANCE SQLite_Introduction The total process duration was:120.31
+2024-12-05 19:45:01,182 - INFO - PERFORMANCE SQLite_Introduction Stop Time = 2024-12-05 19:45:01
+2024-12-05 19:45:01,183 - INFO - PERFORMANCE SQLite_Introduction Medium process duration greater than 3 minutes:120.31
+2024-12-05 19:45:01,183 - INFO - PERFORMANCE SQLite_Introduction Performance optimization is optional
+2024-12-05 19:45:01,183 - INFO - END SQLite_Introduction =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-12-05 19:46:03,151 - INFO - START SQLite_Introduction =============================================
+2024-12-05 19:46:03,152 - INFO - START SQLite_Introduction Start Time = 2024-12-05 19:46:03
+2024-12-05 19:46:03,152 - INFO - SQLite_Introduction Step 0 - Initialize the configuration file parser
+2024-12-05 19:46:03,265 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\josep\\anaconda3\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-12-05 19:46:03,265 - INFO - Using writeable comtypes cache directory: 'C:\Users\josep\anaconda3\lib\site-packages\comtypes\gen'
+2024-12-05 19:46:21,911 - INFO - PERFORMANCE SQLite_Introduction The total process duration was:18.76
+2024-12-05 19:46:21,911 - INFO - PERFORMANCE SQLite_Introduction Stop Time = 2024-12-05 19:46:21
+2024-12-05 19:46:21,911 - INFO - PERFORMANCE SQLite_Introduction Low process duration less than 3 minutes:18.76
+2024-12-05 19:46:21,912 - INFO - PERFORMANCE SQLite_Introduction Performance optimization is optional
+2024-12-05 19:46:21,912 - INFO - END SQLite_Introduction =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-12-05 19:55:47,163 - INFO - START SQLite_Introduction =============================================
+2024-12-05 19:55:47,163 - INFO - START SQLite_Introduction Start Time = 2024-12-05 19:55:47
+2024-12-05 19:55:47,163 - INFO - SQLite_Introduction Step 0 - Initialize the configuration file parser
+2024-12-05 19:55:47,270 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\josep\\anaconda3\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-12-05 19:55:47,271 - INFO - Using writeable comtypes cache directory: 'C:\Users\josep\anaconda3\lib\site-packages\comtypes\gen'
+2024-12-05 19:56:06,446 - INFO - PERFORMANCE SQLite_Introduction The total process duration was:19.28
+2024-12-05 19:56:06,446 - INFO - PERFORMANCE SQLite_Introduction Stop Time = 2024-12-05 19:56:06
+2024-12-05 19:56:06,446 - INFO - PERFORMANCE SQLite_Introduction Low process duration less than 3 minutes:19.28
+2024-12-05 19:56:06,446 - INFO - PERFORMANCE SQLite_Introduction Performance optimization is optional
+2024-12-05 19:56:06,446 - INFO - END SQLite_Introduction =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-12-05 20:04:39,162 - INFO - START SQLite_Introduction =============================================
+2024-12-05 20:04:39,162 - INFO - START SQLite_Introduction Start Time = 2024-12-05 20:04:39
+2024-12-05 20:04:39,162 - INFO - SQLite_Introduction Step 0 - Initialize the configuration file parser
+2024-12-05 20:04:39,278 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\josep\\anaconda3\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-12-05 20:04:39,278 - INFO - Using writeable comtypes cache directory: 'C:\Users\josep\anaconda3\lib\site-packages\comtypes\gen'
+2024-12-05 20:04:58,547 - INFO - PERFORMANCE SQLite_Introduction The total process duration was:19.39
+2024-12-05 20:04:58,548 - INFO - PERFORMANCE SQLite_Introduction Stop Time = 2024-12-05 20:04:58
+2024-12-05 20:04:58,548 - INFO - PERFORMANCE SQLite_Introduction Low process duration less than 3 minutes:19.39
+2024-12-05 20:04:58,548 - INFO - PERFORMANCE SQLite_Introduction Performance optimization is optional
+2024-12-05 20:04:58,548 - INFO - END SQLite_Introduction =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-12-05 20:05:46,757 - INFO - START SQLite_Introduction =============================================
+2024-12-05 20:05:46,757 - INFO - START SQLite_Introduction Start Time = 2024-12-05 20:05:46
+2024-12-05 20:05:46,757 - INFO - SQLite_Introduction Step 0 - Initialize the configuration file parser
+2024-12-05 20:05:46,914 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\josep\\anaconda3\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-12-05 20:05:46,914 - INFO - Using writeable comtypes cache directory: 'C:\Users\josep\anaconda3\lib\site-packages\comtypes\gen'
+2024-12-05 20:06:05,935 - INFO - PERFORMANCE SQLite_Introduction The total process duration was:19.18
+2024-12-05 20:06:05,935 - INFO - PERFORMANCE SQLite_Introduction Stop Time = 2024-12-05 20:06:05
+2024-12-05 20:06:05,935 - INFO - PERFORMANCE SQLite_Introduction Low process duration less than 3 minutes:19.18
+2024-12-05 20:06:05,936 - INFO - PERFORMANCE SQLite_Introduction Performance optimization is optional
+2024-12-05 20:06:05,936 - INFO - END SQLite_Introduction =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
