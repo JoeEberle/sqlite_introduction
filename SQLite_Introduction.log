@@ -1,10 +1,10 @@
-2024-12-05 20:05:46,757 - INFO - START SQLite_Introduction =============================================
-2024-12-05 20:05:46,757 - INFO - START SQLite_Introduction Start Time = 2024-12-05 20:05:46
-2024-12-05 20:05:46,757 - INFO - SQLite_Introduction Step 0 - Initialize the configuration file parser
-2024-12-05 20:05:46,914 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\josep\\anaconda3\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
-2024-12-05 20:05:46,914 - INFO - Using writeable comtypes cache directory: 'C:\Users\josep\anaconda3\lib\site-packages\comtypes\gen'
-2024-12-05 20:06:05,935 - INFO - PERFORMANCE SQLite_Introduction The total process duration was:19.18
-2024-12-05 20:06:05,935 - INFO - PERFORMANCE SQLite_Introduction Stop Time = 2024-12-05 20:06:05
-2024-12-05 20:06:05,935 - INFO - PERFORMANCE SQLite_Introduction Low process duration less than 3 minutes:19.18
-2024-12-05 20:06:05,936 - INFO - PERFORMANCE SQLite_Introduction Performance optimization is optional
-2024-12-05 20:06:05,936 - INFO - END SQLite_Introduction =============================================
+2024-12-05 20:53:35,910 - INFO - START SQLite_Introduction =============================================
+2024-12-05 20:53:35,911 - INFO - START SQLite_Introduction Start Time = 2024-12-05 20:53:35
+2024-12-05 20:53:35,911 - INFO - SQLite_Introduction Step 0 - Initialize the configuration file parser
+2024-12-05 20:53:36,089 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\josep\\anaconda3\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-12-05 20:53:36,089 - INFO - Using writeable comtypes cache directory: 'C:\Users\josep\anaconda3\lib\site-packages\comtypes\gen'
+2024-12-05 20:53:55,171 - INFO - PERFORMANCE SQLite_Introduction The total process duration was:19.26
+2024-12-05 20:53:55,171 - INFO - PERFORMANCE SQLite_Introduction Stop Time = 2024-12-05 20:53:55
+2024-12-05 20:53:55,171 - INFO - PERFORMANCE SQLite_Introduction Low process duration less than 3 minutes:19.26
+2024-12-05 20:53:55,171 - INFO - PERFORMANCE SQLite_Introduction Performance optimization is optional
+2024-12-05 20:53:55,171 - INFO - END SQLite_Introduction =============================================
