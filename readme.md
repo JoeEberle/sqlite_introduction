@@ -4,11 +4,7 @@
 
 ## SQLite introduction provides an introduction to SQL lite
 
-    
-![Solution](code.png)
-
-    
-
+    ![Image image_filename](code.png)
 
 ## Return on Investment (ROI)
 
@@ -25,10 +21,7 @@ The return on investment (ROI) when using SQLite is significant due to its cost-
 - SQLite is self-contained, serverless, and supports standard SQL.
 - SQLite is a popular choice for various software applications.   
 - Python comes with **built-in support** for SQLite through the **sqlite3** module in the standard python library. 
-
-![Solution](code.png)
-
-    
+![Image image_filename](code.png)
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
